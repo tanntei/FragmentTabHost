@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Bottom</string>
+
+    <string name="home">首页</string>
+    <string name="category">分区</string>
+    <string name="following">动态</string>
+    <string name="mall">会员购</string>
+</resources>
